@@ -1,7 +1,6 @@
 #----Factors----
 # R stores categorical variables into a factor.
 
-# Create gender vector
 gender_vector <- c("Male", "Female", "Female", "Male", "Male")
 class(gender_vector)
 table(gender_vector)
