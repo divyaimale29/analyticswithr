@@ -1,4 +1,3 @@
-
 #----Data Frame----
 #We can create a dataframe by combining variables of same length.
 # Create a, b, c, d variables
