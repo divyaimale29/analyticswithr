@@ -1,5 +1,4 @@
 #----Matrix----
-
 # Let's construct two 5x2 matrix with a sequence of number from 1 to 10, 
 # one with byrow = TRUE and one with byrow = FALSE to see the difference.
 
