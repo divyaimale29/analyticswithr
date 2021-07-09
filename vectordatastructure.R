@@ -3,7 +3,6 @@
 # We can create a vector with all the basic data type
 # The simplest way to build a vector is to use the c command.
 
-# Creating a Numerical Vector:
 vec_num <- c(1, 10, 49)
 vec_num
 class(vec_num)
