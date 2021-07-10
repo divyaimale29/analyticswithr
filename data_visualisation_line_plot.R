@@ -1,6 +1,5 @@
 #Line Plots in R----
 #We can build them using the plot() function available in base R.
-
 #plot
 X=1:10
 Y=11:20
