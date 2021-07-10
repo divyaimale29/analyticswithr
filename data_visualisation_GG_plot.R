@@ -1,5 +1,4 @@
 # Advanced Plots in R:Plot in R using ggplot Package----
-
 install.packages('ggplot2')
 library(ggplot2)
 
