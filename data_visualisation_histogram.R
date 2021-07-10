@@ -8,7 +8,6 @@ hist(mtcars$mpg, breaks=10, col="red")
 
 #Density plots:
 #These plots are effective way to view the distribution of a variable.
-#Density Plot
 d <- density(mtcars$mpg) # returns the density data 
 plot(d) # plots the results
 
