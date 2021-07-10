@@ -12,7 +12,6 @@ table(gender_vector)
 
 # A categorical variable can be divided into 2 types:
 # nominal categorical variable and ordinal categorical variable.
-
 #Nominal Categorical Variable has several values but the order does not matter. 
 
 # Create Nominal Categorical vector
