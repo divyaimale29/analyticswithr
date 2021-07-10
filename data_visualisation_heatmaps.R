@@ -1,4 +1,3 @@
-
 #Heat Maps in R----
 #We can build them using the heatmap() function available in base R.
 
