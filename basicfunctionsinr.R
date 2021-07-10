@@ -1,5 +1,4 @@
 #----Various Functions in R----
-?str()
 # str()- Compactly display the internal structure of an R object/datasets. 
 # names()- Names of elements within an object
 # class()- Retrieves the internal class of an object/dataset.
@@ -15,6 +14,7 @@
 # quantile()- Gives quartiles of the dataset. 
 # summary()- Gives the min, max & quartile values corresponding to each column of the dataset.
 
+?str()
 #----Examples:----
 x <- c(1:10)
 class(x)
