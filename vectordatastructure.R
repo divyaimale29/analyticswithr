@@ -20,7 +20,6 @@ vec_random
 class(vec_random)
 
 # Object Properties
-#vector
 v1= 1:100
 class(v1) ; 
 typeof(v1)
