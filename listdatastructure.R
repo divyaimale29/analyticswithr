@@ -1,7 +1,6 @@
 #----List----
 #We  use list() function to create a list.
 #We will create three different objects: vector, matrix and data frame.
-#And will create a list with all these objects combined together.
 
 #Creating a Vector with numeric from 1 up to 5
 vect  <- c(1:5)
