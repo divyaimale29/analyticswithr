@@ -18,8 +18,7 @@ sum(is.na(df))
 # summary() - finds NAs
 summary(df)
 
-# complete.cases() - 
-#Indicates Rows with no missing values as TRUE
+# complete.cases() - Indicates Rows with no missing values as TRUE
 complete.cases(df)
 
 #Used to find rows with no missing values.
