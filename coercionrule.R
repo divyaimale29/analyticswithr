@@ -1,8 +1,8 @@
 # Coercion Rules in R
 # R will automatically convert between built-in object types when appropriate. 
 # R will convert from more specific types to more general types.
-
 #define a vector x
+
 x <- c(1, 2, 3, 4, 5)
 x
 class(x)
