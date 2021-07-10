@@ -1,5 +1,3 @@
-# Base Plots in R:
-
 #bar Plot in R----
 #count of categories.
 #We can build them using the barplot() function available in base R.
