@@ -2,7 +2,6 @@
 #read / write Data - from/to File
 
 # Exporting data
-
 # Export to Hard drive----
 #To begin with, you can save the data directly into the working directory. The following code prints the path of your working directory:
 directory <-getwd()
