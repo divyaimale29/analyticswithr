@@ -1,5 +1,4 @@
-#box Plot----
-#used for continuous values to depict 5 number summary.
+#box Plot-used for continuous values to depict 5 number summary.
 #We can build them using the boxplot() function available in base R.
 mtcars
 summary(mtcars$mpg)
