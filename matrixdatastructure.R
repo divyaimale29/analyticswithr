@@ -5,6 +5,7 @@
 #Construct a matrix with 5 rows that contain the numbers 1 up to 10 and byrow=TRUE 
 matrix_a <-matrix(1:10, byrow = TRUE, nrow = 5)
 matrix_a
+
 # Print dimension of the matrix with dim()
 dim(matrix_a)
 
