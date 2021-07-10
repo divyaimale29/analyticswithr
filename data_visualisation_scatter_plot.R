@@ -5,8 +5,7 @@ X=1:10
 Y=11:20
 plot(x=X, y=Y)
 mtcars
-plot(mtcars$wt, mtcars$mpg, main="Scatterplot Example", 
-     xlab="Car Weight ", ylab="Miles Per Gallon ", pch=11)
+plot(mtcars$wt, mtcars$mpg, main="Scatterplot Example", xlab="Car Weight ", ylab="Miles Per Gallon ", pch=11)
 
 plot(x=mtcars$wt, y=mtcars$mpg)
 
