@@ -1,5 +1,3 @@
-
-
 #----Data Manipulation in Data.Frames----
 
 # select(): It is used to select columns of interest from a data set
