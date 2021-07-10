@@ -1,5 +1,6 @@
 #Apply family of functions in R ----
 # Execution time of Apply() fxn is faster then  For Loop.
+
 # Example:
 # Getting the row means, of every row, of two columns in the following 10000 row dataframe:
 N <- 10
