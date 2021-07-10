@@ -1,4 +1,3 @@
-
 #Mosaic Plots----
 #We can build them using the mosaic() function available in base R.
 
