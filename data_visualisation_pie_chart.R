@@ -1,5 +1,6 @@
 #pie chart in R----
 #We can build them using the pie() function available in base R.
+
 x = c(10,20,40,50)
 pie(x)
 xlabels = c('A','B','C','D')
